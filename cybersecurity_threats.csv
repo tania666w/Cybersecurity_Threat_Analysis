@@ -1,0 +1,5 @@
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,isTor,totalReports,numDistinctUsers,lastReportedAt
+8.8.8.8,True,4,True,0,US,Content Delivery Network,Google LLC,google.com,['dns.google'],False,65,26,2025-02-12T16:01:42+00:00
+1.1.1.1,True,4,True,0,AU,Content Delivery Network,APNIC and Cloudflare DNS Resolver project,cloudflare.com,['one.one.one.one'],False,149,75,2025-02-12T16:19:04+00:00
+192.168.1.1,False,4,False,0,,Reserved,Private IP Address LAN,,[],False,16,6,2025-02-12T14:27:44+00:00
+185.199.111.153,True,4,False,27,US,Content Delivery Network,"GitHub, Inc.",github.com,['cdn-185-199-111-153.github.com'],False,3,3,2025-02-11T04:15:04+00:00
